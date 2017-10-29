@@ -1,12 +1,12 @@
 ---
 layout: poem
-title: "Homework 1: American Pie"[^fn1]
+title: "Homework 1: American Pie"
 author: Don McLean
 editor: Alicia Alonso
-source: Poetry Foundation
+source: Genius Lyrics
 ---
 
-[Intro]
+- [Intro][^fn1]
 - A long, long time ago
 - I can still remember how that music used to make me smile
 - And I knew if I had my chance
@@ -182,7 +182,6 @@ source: Poetry Foundation
 
 	Don McLean released American Pie in 1971 on the album of the same name. The entire song is teeming with references to pop-culture. According to Genius Lyrics, "this song tackles the evolution of rock & roll through the 60s, following the 1959 plane crash that led to the death of Buddy Holly, Ritchie Valens, and The Big Bopper. McLean explores many of the major events of the 60s, including the moon landings, Dylan’s rise and crash, the dominance of The Beatles, and the death of Janis Joplin.""
 	For many years, McLean did not explain the song himself, In fact, when asked its meaning, he said: “It means I never have to work again.”  
-
 	{:.poetry}
 
 [^fn2]: American Pie combines the two terms “Miss America” and “as American as apple pie”.
@@ -194,5 +193,3 @@ source: Poetry Foundation
 [^fn5]: Also from Genius Lyrics, "McLean’s track will forever be regarded as a poetic look into the past of rock & roll."
 
 [^fn6]: If you seek more information, here is a website dedicated to understanding the song: http://understandingamericanpie.com/index.htm
-
-
