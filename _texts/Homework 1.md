@@ -183,11 +183,6 @@ source: Poetry Foundation
 	Don McLean released American Pie in 1971 on the album of the same name. The entire song is teeming with references to pop-culture. According to Genius Lyrics, "this song tackles the evolution of rock & roll through the 60s, following the 1959 plane crash that led to the death of Buddy Holly, Ritchie Valens, and The Big Bopper. McLean explores many of the major events of the 60s, including the moon landings, Dylan’s rise and crash, the dominance of The Beatles, and the death of Janis Joplin.""
 	For many years, McLean did not explain the song himself, In fact, when asked its meaning, he said: “It means I never have to work again.”  
 
-	> - On a windy day let's go flying
-	> - There may be no trees to rest on
-	> - There may be no clouds to ride
-	> - But we'll have our wings and the wind will be with us
-	> - That's enough for me, that's enough for me.
 	{:.poetry}
 
 [^fn2]: American Pie combines the two terms “Miss America” and “as American as apple pie”.
